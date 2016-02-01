@@ -1,0 +1,11 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="(row1.SUURYO  * row3.TANNI_SURYO)">
+  <variables name="row1.ID" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.ITEM_CD" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row1.SUURYO" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row1.TANNI" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.ITEM_CD" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row2.ITEM_NAME" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.TANNI" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.TANNI_SURYO" value="null" talendType="id_Integer" nullable="true"/>
+</expression:EMFExpression>
